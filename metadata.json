@@ -1,0 +1,6 @@
+{
+  "name": "上海韵斋文化传播有限公司",
+  "description": "上海韵斋文化传播有限公司官方网站 - 旗下自研【供需之家】与【你的秘书】两大旗舰小程序产品展示与对接",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
